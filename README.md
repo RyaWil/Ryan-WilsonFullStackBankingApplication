@@ -1,9 +1,13 @@
 # To run This Application Please follow the below steps:
 Within (recommended Visual Studio Code) Code Editor
 Git clone https://github.com/RyaWil/badbankmit.git
+
 cd to badbankmit
+
 npm install
+
 npm start
+
   The development server will run and the app will be opened on you localhost:3000
 
 
