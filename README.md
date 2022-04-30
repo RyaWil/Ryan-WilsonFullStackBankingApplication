@@ -8,7 +8,7 @@ npm install
 
 npm start
 
-  The development server will run and the app will be opened on you localhost:3000
+  The development server will run and the app will be opened on your localhost:3000
 
 
 
